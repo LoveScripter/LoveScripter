@@ -39,13 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Love's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoveScripter&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoveScripter&layout=compact&theme=radical)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=LoveScripter&theme=radical&hide_border=true)  
-
 ---
 
 ### 📫 Connect with Me
